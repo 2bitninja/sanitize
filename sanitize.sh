@@ -5,8 +5,6 @@
 
 
 ## Section
-#clear
-#echo -e "Please do something "
 
 while getopts "hvl" option
 do case ${option} in
